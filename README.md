@@ -1,2 +1,2 @@
 # assignment
-tis is code of palindrone and prime number
+this is code of palindrone and prime number
